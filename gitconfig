@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = biamatos04@gmail.com
+	name = bianca matos
